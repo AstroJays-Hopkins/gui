@@ -1,16 +1,16 @@
-#Rocket Telemetry GUI
-##Data to be Read (Formal Order not yet determined)
-####GPS
+# Rocket Telemetry GUI
+## Data to be Read (Formal Order not yet determined)
+### GPS
  - x
  - y
  - z
-###Linear Accel
+### Linear Accel
   - x
   - y
   - z
-###Gyro
+### Gyro
   - x Twist
   - y Twist
   - z Twist
-###Altitude
+### Altitude
  - Single altitude from 0 in feet (not from sea level)
